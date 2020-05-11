@@ -2,7 +2,6 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 import Data from './city-weather.json'
-import CityComponent from './components/CityComponent'
 import Search from './components/Search'
 
 function App() {

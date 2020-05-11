@@ -1,0 +1,19 @@
+.city_title {
+    text-align: left;
+    margin-left: 1.5rem;
+    display: inline-block;
+}
+
+.city_title-btn {
+    border: 1px solid black;
+    background-color: white;
+    width: 2rem;
+    height: 2rem;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.city_title-div {
+    display: flex;
+    justify-content: space-between;
+}
